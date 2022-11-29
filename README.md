@@ -4,7 +4,7 @@ Here are many small and large projects written in Python, R, SQL or Bash, in hop
   - The smaller the number, the more simplistic the project.
   - The higher the number, the more complex the project.  
 
-If data (.csv, .json, .txt, etc...) is needed for any of the projects, please refer to the **data_files** folder.
+If data (.csv, .json, .txt, etc...) is needed for any of the projects, please refer to the **Data** folder.
 
 ---
 
