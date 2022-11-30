@@ -18,7 +18,7 @@ Visit me: [**Website**](http://jorgegalarza1.github.io)
 [BMI Calculator](https://github.com/jorgegalarza1/Portfolio_Projects/blob/main/2_BMI_Calculator.py)
 ![2](https://github.com/jorgegalarza1/Portfolio_Projects/blob/main/Images/BMI.png)  
 
-[Earthquake Data Analysis](https://github.com/jorgegalarza1/Portfolio_Projects/blob/main/2_BMI_Calculator.py)
+[Earthquake Data Analysis](https://github.com/jorgegalarza1/Portfolio_Projects/blob/main/3_Earthquake_Data_Analysis.py)
 ![3](https://github.com/jorgegalarza1/Portfolio_Projects/blob/main/Images/Earthquakes.png)  
 
 
