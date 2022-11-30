@@ -108,7 +108,7 @@ earthquakes_5_5.plot(style = 'seaborn',
                      alpha = 0.7,
                      )
 plt.yticks(rotation = 5, fontsize=9)
-plt.title("Earthquakes of the World over Magnitude 5.5", fontsize=14)
+plt.title("Earthquakes of the World over Magnitude 5.5", fontsize=24)
 plt.ylabel(None)
-plt.xlabel("Earthquake Magnitude", fontsize=11)
+plt.xlabel("Earthquake Magnitude", fontsize=14)
 plt.show()
