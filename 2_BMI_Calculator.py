@@ -3,7 +3,7 @@
 ### WARNING ###
 # This is only a tool to be used for educational purposes for python coding.
 
-# Formula retrieved from 'https://www.nhlbi.nih.gov/health/educational/lose_wt/BMI/bmi-m.htm'
+# Formula retrieved on 11/29/2022 from 'https://www.nhlbi.nih.gov/health/educational/lose_wt/BMI/bmi-m.htm'
 # BMI = Weight(Kg) / Height(M)^2
 
 # Copy and paste this code to your text editor / IDE and start making dilutions in your lab.
