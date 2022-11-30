@@ -6,7 +6,7 @@
 # Copy and paste this code to your text editor / IDE and start messing around with the data.
 # The data used for this analysis represents world earthquake data from the month of November, 2022.
 # All code was has a comment on top '#'.
-# The graph does not have comments, play with the values and observe what changes, and what parameters change what.
+# The graph does not have comments; play with the values and observe what changes, and what parameters change what.
 
 import pandas as pd
 import matplotlib.pyplot as plt
