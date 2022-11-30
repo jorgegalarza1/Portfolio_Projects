@@ -13,4 +13,7 @@ If data (.csv, .json, .txt, etc...) is needed for any of the projects, please re
 Contact me: jorge_galarza_1@outlook.com  
 Visit me: [**Website**](http://jorgegalarza1.github.io)
 
----
+---  
+
+<img src="[Assets/icon.png](https://github.com/jorgegalarza1/Portfolio_Projects/blob/main/Images/Earthquakes.png)" width="200" height="150">
+
