@@ -8,6 +8,7 @@ If data (.csv, .json, .txt, etc...) is needed for any of the projects, please re
 
 ---
 
-To contact me: jorge_galarza_1@outlook.com
+Contact me: jorge_galarza_1@outlook.com  
+Visit me: [**Website**](http://jorgegalarza1.github.io)
 
 ---
