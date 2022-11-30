@@ -1,7 +1,8 @@
 # 1_Basic_Dilution_Calculator.py
 
 # Copy and paste this code to your text editor / IDE and start making dilutions in your lab.
-# This is written in a while loop, just in case you are making more than one dilution. Enter 'q' to exit loop!
+# This is written in a 'while' loop, just in case you are making more than one dilution.
+# Enter 'q' to exit loop!
 
 # M1 = The desired concentration you are hoping to end up with. (I want my final solution to be 1PPM)
 # V1 = How much volume are you trying to end up with. (Eg. I want to make 5000mL of solution)
