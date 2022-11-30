@@ -15,9 +15,10 @@ Visit me: [**Website**](http://jorgegalarza1.github.io)
 
 ---  
 
-<p align="middle">
-<img width="450" height="350" src="https://github.com/jorgegalarza1/Portfolio_Projects/blob/main/Images/BMI.png">
-<img width="450" height="350" src="https://github.com/jorgegalarza1/Portfolio_Projects/blob/main/Images/Earthquakes.png">
-</p>
+[BMI Calculator](https://github.com/jorgegalarza1/Portfolio_Projects/blob/main/2_BMI_Calculator.py)
+![2](https://github.com/jorgegalarza1/Portfolio_Projects/blob/main/Images/BMI.png)  
 
-!['2'](https://github.com/jorgegalarza1/Portfolio_Projects/blob/main/Images/BMI.png) ![3](https://github.com/jorgegalarza1/Portfolio_Projects/blob/main/Images/Earthquakes.png)
+[Earthquake Data Analysis](https://github.com/jorgegalarza1/Portfolio_Projects/blob/main/2_BMI_Calculator.py)
+![3](https://github.com/jorgegalarza1/Portfolio_Projects/blob/main/Images/Earthquakes.png)  
+
+
