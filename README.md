@@ -11,7 +11,8 @@ If data (.csv, .json, .txt, etc...) is needed for any of the projects, please re
 ---
 
 Contact me: jorge_galarza_1@outlook.com  
-Visit me: [**Website**](http://jorgegalarza1.github.io)
+Visit my Website: [**Website**](http://jorgegalarza1.github.io)  
+Visit my Tableau: [**Tableau**](https://public.tableau.com/app/profile/jorge.galarza)
 
 ---  
 
