@@ -19,3 +19,5 @@ Visit me: [**Website**](http://jorgegalarza1.github.io)
 <img width="450" height="350" src="https://github.com/jorgegalarza1/Portfolio_Projects/blob/main/Images/BMI.png">
 <img width="450" height="350" src="https://github.com/jorgegalarza1/Portfolio_Projects/blob/main/Images/Earthquakes.png">
 </p>
+
+!['2'](https://github.com/jorgegalarza1/Portfolio_Projects/blob/main/Images/BMI.png) ![3](https://github.com/jorgegalarza1/Portfolio_Projects/blob/main/Images/Earthquakes.png)
