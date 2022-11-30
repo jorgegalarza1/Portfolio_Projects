@@ -1,4 +1,4 @@
-# Portfolio Projects
+<h1 align="center"><b>Portfolio Projects</b></h1>
 
 Large and small projects in Python, R, SQL or Bash in hopes to demonstrate my programming, data analysis and data science proficiency.  
 
