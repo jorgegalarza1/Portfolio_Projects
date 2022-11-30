@@ -9,6 +9,7 @@
 # Copy and paste this code to your text editor / IDE and start making dilutions in your lab.
 # This is written in a 'while' loop, just in case you are entering information for more than one person.
 # Enter 'q' to exit loop!
+# If no visualization is produced, the limit of 50 has been exceeded.
 
 # Eg. INPUT
   # Enter your weight in Kilograms: 94
@@ -39,7 +40,6 @@ while True:
         print(f"Your BMI is {BMI}, you are considered 'overweight'.")
     else:
         print(f"Your BMI is {BMI}, you are considered 'obese'.")
-        break
 
     x_axis = ("Underweight", "Normal", "Overweight", "Obese", "YOU")
     y_axis = [18.5,24.9, 29.9, 40, float(BMI)]
