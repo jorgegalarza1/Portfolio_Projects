@@ -16,6 +16,6 @@ Visit me: [**Website**](http://jorgegalarza1.github.io)
 ---  
 
 <p align="middle">
-<img width="500" height="350" src="https://github.com/jorgegalarza1/Portfolio_Projects/blob/main/Images/BMI.png">
-<img width="500" height="350" src="https://github.com/jorgegalarza1/Portfolio_Projects/blob/main/Images/Earthquakes.png">
+<img width="450" height="350" src="https://github.com/jorgegalarza1/Portfolio_Projects/blob/main/Images/BMI.png">
+<img width="450" height="350" src="https://github.com/jorgegalarza1/Portfolio_Projects/blob/main/Images/Earthquakes.png">
 </p>
