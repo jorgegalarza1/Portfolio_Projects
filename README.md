@@ -22,4 +22,5 @@ Visit my Tableau: [**Tableau**](https://public.tableau.com/app/profile/jorge.gal
 [Earthquake Data Analysis](https://github.com/jorgegalarza1/Portfolio_Projects/blob/main/3_Earthquake_Data_Analysis.py)
 ![3](https://github.com/jorgegalarza1/Portfolio_Projects/blob/main/Images/Earthquakes.png)  
 
-
+[Texas vs Alaska](https://public.tableau.com/app/profile/jorge.galarza/viz/TexasvsAlaska/Dashboard1)
+![Tableau](https://github.com/jorgegalarza1/Portfolio_Projects/blob/main/Images/Texas_vs_Alaska.png) 
