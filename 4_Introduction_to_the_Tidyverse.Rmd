@@ -8,6 +8,9 @@ Most code has a comment to the right '#', giving a basic explanation of the code
 The code is separated in sections to make the file look tidy, get it ? jk
 Have fun with the code, try it with your own data and learn a lot.
 
+If it is your first time using the packages mentioned below, install the package prior to running code!
+In RStudio, select "packages" from the bottom right quadrant > install > dplyr, gapminder > 
+
 ---
 title: "Introduction to the Tidyverse"
 author: "Jorge Galarza"
