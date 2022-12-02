@@ -1,6 +1,6 @@
 5_Earthquake_Data_Analysis
 
-This is only a tool to be used for educational purposes for python coding.
+This is only a tool to be used for educational purposes for R and R Markdown coding.
 
 Data retrieved on 12/02/2022 from 'https://stats.oecd.org/index.aspx?queryid=54751'
 
