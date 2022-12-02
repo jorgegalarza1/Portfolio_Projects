@@ -1,4 +1,4 @@
-5_Earthquake_Data_Analysis
+5_Gender_Wage_Gap
 
 This is only a tool to be used for educational purposes for R and R Markdown coding.
 
