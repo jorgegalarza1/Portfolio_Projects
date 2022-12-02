@@ -15,18 +15,3 @@ Visit my Website: [**Website**](http://jorgegalarza1.github.io)
 Visit my Tableau: [**Tableau**](https://public.tableau.com/app/profile/jorge.galarza)
 
 ---  
-
-[BMI Calculator](https://github.com/jorgegalarza1/Portfolio_Projects/blob/main/2_BMI_Calculator.py)
-![2](https://github.com/jorgegalarza1/Portfolio_Projects/blob/main/Images/BMI.png)  
-
-[Earthquake Data Analysis](https://github.com/jorgegalarza1/Portfolio_Projects/blob/main/3_Earthquake_Data_Analysis.py)
-![3](https://github.com/jorgegalarza1/Portfolio_Projects/blob/main/Images/Earthquakes.png)  
-
-[GDP Per Capita vs Life Expectancy Per Year](https://github.com/jorgegalarza1/Portfolio_Projects/blob/main/4_Introduction_to_the_Tidyverse.Rmd)
-![4](https://github.com/jorgegalarza1/Portfolio_Projects/blob/main/Images/gdpPercap_vs_lifeExp_by_year.png)  
-
-[Texas vs Alaska](https://public.tableau.com/app/profile/jorge.galarza/viz/TexasvsAlaska/Dashboard1)
-![Tableau](https://github.com/jorgegalarza1/Portfolio_Projects/blob/main/Images/Texas_vs_Alaska.png)  
-
-[Gender Wage Gap from 2000 to 2020](https://github.com/jorgegalarza1/Portfolio_Projects/blob/main/5_Gender_Wage_Gap.Rmd)  
-<img src="https://github.com/jorgegalarza1/Portfolio_Projects/blob/main/Images/Gender_wage_gap.PNG?raw=true" width="1050" height="500" /> 
