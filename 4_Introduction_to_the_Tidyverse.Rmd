@@ -9,8 +9,14 @@ The code is separated in sections to make the file look tidy, get it ? jk
 Have fun with the code, try it with your own data and learn a lot.
 
 If it is your first time using the packages mentioned below, install the package prior to running code!
-In RStudio, select "packages" from the bottom right quadrant > install > dplyr, gapminder > 
+In RStudio, select "packages" from the bottom right quadrant > install > dplyr, gapminder
 
+This symbol "%>%" is called a "pipe" and you read it like as "and then":
+
+dataset %>% ### Get the variable called dataset "and then",
+  filter(column_2 == x) %>% ### Filter column_2 to only get the values from that column that are equal to x, "and then",
+  arrange(desc(column_3)) ### Arrange the dataset in descending order, based on values from column 3
+  
 ---
 title: "Introduction to the Tidyverse"
 author: "Jorge Galarza"
