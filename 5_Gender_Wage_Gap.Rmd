@@ -21,7 +21,7 @@ library(dplyr)
 library(ggplot2)
 library(viridis)
 
-wage_gap <- read.csv("C:/Users/jorge/iCloudDrive/Documents/Coding_Notes/Gender_Wage_Gap/gender_wage_gap.csv", header = TRUE) # Load in the csv file
+wage_gap <- read.csv("path to csv file", header = TRUE) # Load in the csv file
 head(wage_gap) # Print just the top 6 rows from the data set to see that everything looks how you expect it to look
 wage_gap_clean <- wage_gap %>% # Make a new variable called wage_gap_clean from the wage_gap data set, and then
   select(Country, Indicator, Time, Value) %>% # Only keep information from columns Country, Time and Value
