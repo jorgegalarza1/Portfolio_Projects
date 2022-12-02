@@ -29,4 +29,4 @@ Visit my Tableau: [**Tableau**](https://public.tableau.com/app/profile/jorge.gal
 ![Tableau](https://github.com/jorgegalarza1/Portfolio_Projects/blob/main/Images/Texas_vs_Alaska.png)  
 
 [Gender Wage Gap from 2000 to 2020](https://github.com/jorgegalarza1/Portfolio_Projects/blob/main/5_Gender_Wage_Gap.Rmd)  
-<img src="https://github.com/jorgegalarza1/Portfolio_Projects/blob/main/Images/Gender_wage_gap.PNG?raw=true" width="1050" height="450" /> 
+<img src="https://github.com/jorgegalarza1/Portfolio_Projects/blob/main/Images/Gender_wage_gap.PNG?raw=true" width="1050" height="500" /> 
