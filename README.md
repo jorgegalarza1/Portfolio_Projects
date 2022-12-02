@@ -27,3 +27,6 @@ Visit my Tableau: [**Tableau**](https://public.tableau.com/app/profile/jorge.gal
 
 [Texas vs Alaska](https://public.tableau.com/app/profile/jorge.galarza/viz/TexasvsAlaska/Dashboard1)
 ![Tableau](https://github.com/jorgegalarza1/Portfolio_Projects/blob/main/Images/Texas_vs_Alaska.png)  
+
+[Gender Wage Gap from 2000 to 2020](https://github.com/jorgegalarza1/Portfolio_Projects/blob/main/5_Gender_Wage_Gap.Rmd)
+![5](https://github.com/jorgegalarza1/Portfolio_Projects/blob/main/Images/Gender_wage_gap.PNG)
