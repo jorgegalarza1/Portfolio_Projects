@@ -1,1 +1,11 @@
+5_Earthquake_Data_Analysis
+
+This is only a tool to be used for educational purposes for python coding.
+
+Data retrieved on 12/02/2022 from 'https://stats.oecd.org/index.aspx?queryid=54751'
+
+Copy and paste this code to a Rmarkdown (.Rmd) file and start messing around with the data.
+Most code has a comment to the right '#', giving a basic explanation of the code's purpose.
+
+The data used for this analysis represents the gender wage gap in different places.
 
