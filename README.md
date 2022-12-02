@@ -6,7 +6,7 @@ The project number at the beginning of each name, demonstrates its simplicity:
   - The smaller the number, the more simplistic the project.
   - The higher the number, the more complex the project.  
 
-If data (.csv, .json, .txt, etc...) is needed for any of the projects, please refer to the [**Data**](https://github.com/jorgegalarza1/Portfolio_Projects/tree/main/Data) folder.
+If data (.csv, .json, .txt, .rds, etc...) is needed for any of the projects, please refer to the [**Data**](https://github.com/jorgegalarza1/Portfolio_Projects/tree/main/Data) folder.
 
 ---
 
