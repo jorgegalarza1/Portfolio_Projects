@@ -2,7 +2,9 @@
 
 Large and small projects in **Python**, **R**, **SQL**, **Command line**, or **Tableau**; in hopes to demonstrate my programming, data analysis, data science and data visualization proficiency.  
 
-If data (.csv, .json, .txt, .rds, etc...) is needed for any of the projects, please refer to the [**Data**](https://github.com/jorgegalarza1/Portfolio_Projects/tree/main/Data) folder.
+If data (.csv, .json, .txt, .rds, etc...) is needed for any of the projects, please refer to the [**Data**](https://github.com/jorgegalarza1/Portfolio_Projects/tree/main/Data) folder.  
+
+<h2 align="center"><b>Projects coming soon...</b></h2>
 
 ---
 
