@@ -54,13 +54,15 @@ FROM sample_table;
 SELECT column_1, column_2
 FROM new_table;
 
--- PostgreSQL (free and open source)
+-- PostgreSQL 
+-- (free and open source)
 -- From sample_table, get column_1 and column_2, and only retain the top 2 records (rows)
 SELECT column_1, column_2
 FROM sample_table
 LIMIT 2;
 
--- SQL Server (Created by Microsoft, has both a free and a enterprise version, is queried using T-SQL)
+-- SQL Server
+-- (Created by Microsoft, has both a free and a enterprise version, is queried using T-SQL)
 -- From sample_table, get column_1 and column_2, and only retain the top 2 records (rows)
 SELECT column_1, column_2
 FROM sample_table
