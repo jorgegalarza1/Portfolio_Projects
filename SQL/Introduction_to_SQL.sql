@@ -52,3 +52,13 @@ FROM employees
 
 SELECT id, name
 FROM employees_hire_years
+
+-- PostgreSQL (free and open source)
+SELECT id, name
+FROM employees
+LIMIT 2;
+
+-- SQL Server (Created by Microsoft, has both a free and a enterprise version, is queried using T-SQL)
+SELECT id, name
+FROM employees
+TOP 2;
