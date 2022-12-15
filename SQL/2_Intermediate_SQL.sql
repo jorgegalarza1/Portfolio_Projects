@@ -37,7 +37,18 @@ FROM table_1;
 2-SELECT
 3-LIMIT
 
+-- WHERE to filter a clause
+WHERE field = 'condition'
 
-
+-- Example:
+ SELECT title -- Select the field "title"
+ FROM films -- From the "films" table
+ WHERE release_year >= 1940; -- Where the field "release_year" is greater or equal to 1940
+ --  = equal to
+ --  > greater than
+ --  < less than
+ -- <= less than or equal to
+ -- >= greater than or equal to
+ -- <> exclude
 
 
