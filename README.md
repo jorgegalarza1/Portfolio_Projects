@@ -4,7 +4,7 @@ Large and small projects in **Python**, **R**, **SQL**, **Command line**, or **T
 
 If data (.csv, .json, .txt, .rds, etc...) is needed for any of the projects, please refer to the [**Data**](https://github.com/jorgegalarza1/Portfolio_Projects/tree/main/Data) folder.  
 
-<h2 align="center"><b>Projects coming soon...</b></h2>
+<h2 align="center"><b>Projects in progress...</b></h2>
 
 ---
 
