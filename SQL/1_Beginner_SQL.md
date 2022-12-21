@@ -1,7 +1,4 @@
-# Introduction to SQL
-
-Chapter 1 - Understand databases and their structures  
-Chapter 2 - Extract data from databases using SQL  
+# Introduction to SQL 
 
 **Relational database** - Defines relationships between tables of data inside the database  
 
@@ -15,8 +12,8 @@ SQL - Structured Query Language (most widely used programming language for datab
 **Records** == Rows  
 **Fields** == Columns  
 
-Fields are set when the database was created.  
-Records have no limit  
+Fields are set when the database is created.  
+Records have no limit.
 
 Table names should be lowercase and should not include spaces (_), and can refer to a collective group or can be plural.  
 
@@ -62,12 +59,14 @@ Saving SQL result sets as employee_hire_years
 **FROM** employees;  
 
 Selecting the top 10 results from the below query  
+(PostgreSQL)  
 **SELECT** genre  
 **FROM** books  
 **LIMIT** 10;  
 
 OR  
 
+(MySQL)  
 **SELECT** genre  
 **FROM** books  
 **TOP** 10; 
