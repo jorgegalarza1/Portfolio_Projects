@@ -3,9 +3,9 @@
 **Relational database** - Defines relationships between tables of data inside the database  
 
 Database advantages:  
-	* More storage than spreadsheet applications  
-    * Storage is more secure  
-    * Many users can write queries to gather insights from the data at the same time  
+- More storage than spreadsheet applications  
+- Storage is more secure  
+- Many users can write queries to gather insights from the data at the same time  
     
 SQL - Structured Query Language (most widely used programming language for databases) 
 
