@@ -220,7 +220,7 @@ GROUP BY country
 ORDER BY cities_num DESC, country  
 LIMIT 9;  
 
-## Subqueries inside a FRROM clause  
+## Subqueries inside a FROM clause  
 
 If we're interested in all the continents with monarchs as well as the most recent country to gain independence in that continent.  
 
@@ -228,7 +228,7 @@ SELECT continent, MAX(indep_year) AS most_recent
 FROM states  
 GROUP BY continent;  
 
-Now, ho do we filter for only continents with monarchs ?  
+Now, how do we filter for only continents with monarchs ?  
 
 SELECT DISTINCT monarchs.continent, sub.most_recent  
 FROM monarchs,  
